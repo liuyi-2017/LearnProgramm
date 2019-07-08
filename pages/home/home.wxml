@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text style='font-size:34px'>hello world</text>
 <button>测试</button>
+<view>2.知识点2</view>
+<view>1111</view>
