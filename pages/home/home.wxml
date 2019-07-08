@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text style='font-size:34px'>hello world</text>
+<button>测试</button>
